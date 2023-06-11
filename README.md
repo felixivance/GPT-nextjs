@@ -28,3 +28,8 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 
 
 ## NOTES
+If i had more time I would, 
+download the smartsheet library and use the api key to create a new sheet and add the data to the sheet
+i would create an account then use the api key from the account to put in the .env file for the smartsheet project
+
+I would also create a new project for the academic writing and use the api key from that project to put in the .env file for the academic writing project
